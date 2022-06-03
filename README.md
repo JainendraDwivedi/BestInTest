@@ -3,12 +3,13 @@
 
 ## About The Project
 
-This is a kotlin based Android Project with 5 quiz questions and proper UI functioning.
+This is a kotlin based Android Project which facilitates the online tests and quizzes.
 
 ## Built With
 
 * [Kotlin](https://developer.android.com/kotlin)
 * [Android Studio](https://developer.android.com/studio)
+* Firebase
 * and more..
 
 ## Contributors
