@@ -1,4 +1,4 @@
-# QuizApp
+# BestInTest
 <div id="top"></div>
 
 ## About The Project
