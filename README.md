@@ -17,7 +17,7 @@ This is a kotlin based Android Project which facilitates the online tests and qu
 - [Jainendra Dwivedi](https://github.com/JainendraDwivedi)
 
 ## Links
-* [![APK][apk-shield]][apk-url]
+<!-- * [![APK][apk-shield]][apk-url] -->
 * [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
